@@ -2,7 +2,7 @@
 
 # react-gi
 
-This is a react challenge project I made to level up my skills in REACT using class components updating how the informtion is being  using on the UI through different strategies and methods. 
+This is a react challenge project, the objective is to level up my skills in REACT using class components updating how the informtion is being  using on the UI through different strategies and methods. 
 Here are the challenges below: 
 
 *Note:  Solutions should use class components. 
