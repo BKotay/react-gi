@@ -15,25 +15,24 @@ class App extends Component {
     this.state = {
       people: [
         {
-          name: 'Blamah Kotay',
-          phoneNumber: '704-123-4567',
-          dateOfBirth: 'November 25, 1999',
-          email: 'bkotay4@gmail.com.com',
-          address: '1423 Red Ventures Dr. , Charlotte, NC'
-        },
-        {
           name: 'Jim Johnson',
+          height: '5 ft 1 in',
           phoneNumber: '(123) 456-7890',
           dateOfBirth: 'January 20, 2025',
           email: 'jimjohnson@yahoo.com',
-          address: '123 Palm St Miami, Florida'
         },
         {
           name: 'Jay Jackson',
+          height: '9 ft 10 in',
           phoneNumber: '(999) 999-9999',
           dateOfBirth: 'February 31, 2026',
           email: 'jjack@outlook.com',
-          address: '222 Dubai Rd, Dubai'
+        }, {
+          name: 'Blamah Kotay',
+          height: '5 ft 10 in',
+          phoneNumber: '704-123-4567',
+          dateOfBirth: 'November 26, 1999',
+          email: 'bkotay4@gmail.com.com'
         }
       ]
     };
