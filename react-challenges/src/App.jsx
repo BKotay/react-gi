@@ -11,7 +11,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
-    // Initialize the state with an array of people
+    // Initialize the state with an array of people (Make three arrays with different information) //
     this.state = {
       people: [
         {
